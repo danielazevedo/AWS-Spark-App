@@ -1,4 +1,4 @@
-# Spark-Azure-test
+# AWS-Spark-App
 
 This notebook was created using the AWS Amazon EMR.
 
